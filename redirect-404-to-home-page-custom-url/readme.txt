@@ -2,16 +2,25 @@
 Author: Daniel Bolander
 Tags: 404 error, redirect, 404 page, redirection, redirect 404
 Requires at least: 4.0
-Tested up to: 6.5
-Stable tag:trunk
+Tested up to: 7.0
+Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-This Wordpress Plugin fixes 404 Errors in Google Webmasters by Redirecting all 404 URLs to Home Page or a Custom URL.
+Redirect visitors away from broken 404 pages and send them to your homepage or any custom URL with a simple, lightweight setup.
 
 == Description ==
 
-<strong>This Wordpress Plugin fixes 404 Errors in Google Webmasters by Redirecting all 404 URLs to Home Page or a Custom URL.</strong>
+<strong>This WordPress Plugin fixes 404 Errors in Google Webmasters by Redirecting all 404 URLs to Home Page or a Custom URL.</strong>
+
+Redirect 404 to Home Page - Custom URL helps you reduce dead-end visits and keep users moving through your site. Instead of showing a generic "Page Not Found" message, this plugin automatically sends visitors to a destination you choose.
+
+Use it to:
+
+* Redirect all 404 URLs to your homepage
+* Send visitors to any custom URL you prefer
+* Create a cleaner experience for users landing on outdated or broken links
+* Keep setup quick and simple without complicated configuration
 
 
 == Installation ==
@@ -29,6 +38,3 @@ WordPress Installation Instructions:
 
 = 1.0 =
 * Initial release
-
-== Screenshots ==
-1. Select the Error code and enter user agent in setting page. 

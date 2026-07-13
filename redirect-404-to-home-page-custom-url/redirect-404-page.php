@@ -2,7 +2,7 @@
 /*
 Plugin Name: Redirect 404 to Home Page - Custom URL
 Description: This Wordpress Plugin fixes 404 Errors in Google Webmasters by Redirecting all 404 URLs to Home Page or a Custom URL.   
-Version: 1.0
+Version: 1.1
 Author: Daniel Bolander
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
